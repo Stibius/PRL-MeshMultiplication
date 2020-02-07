@@ -1,4 +1,4 @@
-# PRL - Paralelní a distribuované algoritmy - Implementace algoritmu "Mesh multiplication"
+# PRL - Paralelní a distribuované algoritmy - Implementace algoritmu Mesh multiplication
 
 ### Dokumentace:
 
